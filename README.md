@@ -5,7 +5,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 I created a command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). The application will be invoked with the following command:
 
 ```
-node index.js
+ node index.js
 ```
 
 Because this is a command-line application won’t be deployed, here is a <a href="https://drive.google.com/file/d/1jhs_rYghvR3DapjZtg_0xCQfjhRGbbyg/view" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
